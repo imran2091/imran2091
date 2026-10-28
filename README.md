@@ -20,6 +20,7 @@
 🚀 Building **AI-native applications powered by LLMs**  
 🧠 Strong in **Backend Engineering, System Design & DSA**  
 📧 mail : imranshaikh72909@gmail.com
+📞 Phone: +91 7385657279
 
 ---
 
